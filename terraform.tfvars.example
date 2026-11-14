@@ -1,0 +1,6 @@
+﻿subscription_id     = "REPLACE-WITH-YOUR-AZURE-SUBSCRIPTION-ID"
+location            = "westus3"
+student_name        = "your-name"
+admin_username      = "labadmin"
+ssh_public_key_path = "./lab_ssh.key.pub"
+allowed_source_cidr = "203.0.113.10/32"
